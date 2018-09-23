@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.idea/*
+yarn.lock
+source/assets/Settings.js
+source/assets/placeholder.txt
+node_modules
+node_modules/*
+public/
+public/*
